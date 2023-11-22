@@ -2,6 +2,6 @@
 
 Gestiona todos los datos de una Persona en la universidad, incluyendo los datos del usuario.
 
-el example.schema.json tiene una base sobre la que trabajar. 
+el fichero *example.schema.json* tiene un ejemplo de perfil que se utiliza como base sobre la que trabajar. 
 
 
